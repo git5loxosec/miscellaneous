@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BATTLE SEQUENCE
+All Things Speed and Position
+By BigBrainMercado and Serenity Special thank you to Fantasticles, Exalyte and Zeddly for their assistance in testing.
+
+In battle, speed determines a lot. It determines order in which both yours and your opponent's heroes take their turn, and as a result, can greatly influence the outcome of a battle. However, speed isn't the only factor in determining such things. Hero skills can be broken up into four categories. Pre-round, start of round, general and end of round.
+
+CATEGORY ONE
+Pre-round
+There are few heroes with pre round skills. These are skills that let off before your damage dealers (excluding heroes with coordinate, like Wukong, Alcazar).
+In general, these heroes, along with gem buffs, stigmata. Artifact buffs activate in a specific, not changeable order. This order is:
+
+Knox' Immunity/Wither/Delusion Mark> Damage shield (first talent 3 for example) > Axe/ Sword	> Wand	> Gem skill buffs	> Cyborg's Stabilizer Module >		Lucas' soul contract/Yi's Astral Caroing/Darkness' Shadow Telekinesis/ Julianne's Triumph of Justice			> Wadjet's Serpent Pupil >	Luminous/Templar/ Bow > Hero buffers
+>	Balance' Lunar Shadow	> Zeus' +40 exclusive	>
+
+Zeus' Splitsky Judgement (only if energy 100).
+
+
+Lucas/Yi/Darkness in position order 6-5-4-3-2-1
+
+
+5	4	6
+z	,	3
+i-'-*
+
+Divines/Bow in position order 1-2-3-4-5-6 Buffers in position order 1-2-3-4-5-6
+
+5	4	6
+
+Buwt hat does this mean? Let's delve deeper.
+In general, a pre round battle will follow a specific pattern. Within that pattern, there are variations that can be created. Notby speed, but rather position.
+
+
+For example:
+If you had	Lucas at 180 speed, and Yi 120, but Yi is in slot 6, and Lucas slot 3, Yi will apply his buff first. However, if they were in opposite positions, Lucas would release his skill first.
+For this section of pre round, the position-skill use sequence is 6-5-4-3-2-1.
+
+Heroes affected by this sequencing include:
+- Lucas (Soul contract)
+- Yi (team shield buff)
+- Darkness (speed buff)
+- Julianne (duel state)
+
+
+The next phase of pre-round release affected by sequencing is Templar Glory, Luminous Beacon and Bowof Doom. The sequence pattern for these differ to the former. The buffs given by these artifact release in position sequence 1-2-3-4-5-6, however, there is more to it than that.
+Templar Glory will release its' buff after Luminous Beacon if in the higher number position. (eg; Luminous slot 5, Templar slot 6). Templar Glory, however, if in a lower number position than Luminous Beacon, will release its' buff at the same time as Luminous Beacon, if Bowof Doom does not sit in between them in position sequencing. If it does, regular sequencing will take place, and buffs/debuffs will activate in order.
+
+
+
+For example:
+If you have Bowof Doom (slot 4), Templar Glory (slot 5), Luminous Beacon (slot 6), then release order will be Bow of Doom, and then both Templar Glory and Luminous Beacon together. BUT if you have Templar Glory (slot 4), Bow of Doom (slot 5), Luminous Beacon (slot 6), buff/debuff release will be Templar Glory then Bowof Doom and then Luminous Beacon.
+
+
+Then begins the phase of all pre round buffer release. Like the divine artifact phase, the buffs activated by your heroes release in the sequence of positions 1-2-3-4-5-6. Unlike the divines section, however, there is no complicated stipulations. The heroes and their buffs/debuffs/ CC that release in this phase are
+- Lucadia (War Zeal)
+- Thinker (Heart of Stone, Stone Shield)
+- Loufontiel, Deer Girl (Reverie)
+- Kinley (Mag Shield)
+- Julianne (Sacred Praise)
+- Gilles (Shield Protection)
+- Camp, Space Kong (Gorilla Luck)
+- Cupid (Arrow of Love)
+- Kloris (Guardian of Sand, Guardian Summon)
+-Anna (+30 exclusive skill)
+- Dane choosing the Villian
+- Sovereign's Domination of All
+- Vesperia (Starry Dew Chalice, +40 skill)
+
+The above are not listed in release order. As mentioned, release order is solely dependent on where they are placed in a lineup.
+
+
+The final two pre round phases are not interchangeable based on position. Balance will always perform her 100 energy skill first, and then Zeus will perform his 100 energy skill.
+
+
+Now we have covered the sequence in which your team will act, but versing an opponent, how is order determined?
+
+
+The sequence of pre round, including opponent team is as follows:
+
+Knox' Immunity	>		Damage shield (first talent 3 for example)	> Axe		> Wand/ Noah's Heart of Rock	>		Gem skill buffs		> Your Cyborg's Stabilizer Module> Opponent Lucas' soul contract/Yi's Astral Carving/Darkness' Shadow Telekinesis/ Julianne's Triumph of Justice	> Your Lucas' soul contract/Yi's Astral Carving/ Darkness' Shadow Telekinesis/ Julianne's Triumph of Justice > Your Wadjet's Serpent's Pupil	>	Luminous/Templar/Bow > Your Hero buffers > Opponent Cyborg's Stabilizer Module
+> Opponent Wadjet > Opponent Hero buffers > Your pets >
+Opponent Pets> Faster Balance' Lunar Shadow >	Slower Balance' Lunar Shadow	> Faster Zeus' +40 exclusive
+and	Splitsky Judgement (only if energy 100) >	Slower
+Zeus' +40 exclusive and	Splitsky Judgement (only if
+energy 100)
+
+Zeus is the final moving pre round hero, before moving into start of round attacks.
+Special note: If used in conjunction with the hero Magner, Zeus ceases to be a category one hero, and becomes a speed dependent, category two hero.
+
+
+
+
+
+
+
+
+
+
+
+CATEGORY TWO
+Start of round
+After the aforementioned pre-round sequence has taken place, the start ofround category of heroes come into play. All of these are speed dependent, except for Poseidon. She will perform her CC clear first every round beginning with round 2. As for the other heroes, the faster one will perform their skill first. A list of these heroes, and their relevant start ofround skill can be found below.
+- Laura (Storm is Coming)
+- Elodie (Frost Breath, exclusive +40, full energy)
+- Kl,oris (Sand Burial passive)
+- Alfa (Mayday)
+- Time (drift between fingers, starts round 2)
+- Lucadia (Rapier of Judgement +30 skill)
+- Hera (Golden Throne)
+- Marduk (Wailing Bones)
+- Kisa (Heart of the Desert, +30 skill)
+
+For example:
+Alfa has 192 speed, Elodie has 171 speed, and Laura has 158 speed. Alfa will use her Mayday skill, and then Elodie, given above stipulations have been met, will use her Frost Breath skill, then finally Laura will release Storm is Coming.
+
+
+When accounting for opponent heroes, position and speed both become factors.
+
+
+Forexample:
+ if your Lucadia is 140 speed, and the opponent's is 141, theirs will go first. This is the case for start of round, regular and
+ end of round skills. If a hero is the same speed as another, the one in the higher number position will go first (i.e. Hero in slot 6 will use their skill before the hero in slot 5.). If they're in the same position, the defender will go first.
+
+
+CATEGORY THREE AND FOUR
+Regular and end of round
+After all start of round skills have been used, the round transitions into regular basic skills, that don't specify when they will be used. These, like the start of round skills, are speed dependent. Once all of these have been completed, then any hero with an end of round skill will perform their skill, following the speed sequence.

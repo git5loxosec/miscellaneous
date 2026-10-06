@@ -1,0 +1,2868 @@
+Hero Build Guide v10.2 by Serenity
+
+
+
+
+Hero Build Guide
+
+Below you will find a guide for ideal build options for heroes, based on PVP mode in the game (Union War, Dominator and Transcendence, Infinity, Dimensional Battle, All Arenas), as well as PVE modes like X-War, Galaxy | Faction wanted, Expedition, Space Discovery, Valiant Trials and Lost Land.
+These aren't a hard fast must. You do what you can with what you have. Triple double is also always an option. (3x 2-sets). Also important to note that Annihilation at Present is only useful on Pierre, Epeius, Mikaela and Orochi.
+Gem talents may very depending on the opponent you're facing.
+Never follow a guide blindly. Read your situation and adapt.
+
+Special note: Speed matters for all heroes. It determines turn order. Speed matters more for some than others, based on individual hero skills. If you're facing CC, third talent 3 is advised. Phantom stigmata is at present invalidated by many heroes and skills. As a result of this, it should be considered a bottom priority of listed recommended stigmata.
+
+V10.2 notes
+- Added Ayana skin
+- Added Oblivion hero recommendations
+- Added DOT subsection in CC section
+- Added Heart of Calamity artifact recommendations
+- Re-assessed tier rankings to reflect current meta (EA focused)
+- Noted True DMG and Holy DMG on relevant heroes.
+- Added disclaimer regarding Phantom stigmata (see above)
+
+Directory
+
+
+Superman Faction
+Einstein Eve Gilles Houston Jane Julianne Karen Kloris Knox Mikaela Nydia Pierre Toko Wadjet Technology Faction Alfa Bonnie
+Camp (Kong) Cui Pan Cyborg, The Dane Hawkins Irena
+Ivy Belle Kinley Kisa Laura Magner
+Musashi (Ronin) Rex Rockefeller
+
+Dark Faction
+Alcazar
+
+Anna Baron Behemoth Camilla Eddie
+Focalor (God Slayer) Gonibal Lucas Marduk Medusa Ophelia Satan
+Van Helsing Vulcano Nature Faction Ayana
+Aphra Daluna Elodie Feng
+Forest Avatar (Epeius) Guton
+Indira Julia Logan Lora
+Loufontiel (Deer Girl)
+Lucy Marilina Michelangelo (Thinker) Noah
+Sally
+
+Sharmaka Silas
+God Faction Anubis Astraea Asura
+Hera Life Lucadia Orochi Poseidon
+Sun Wukong Vesperia Yi
+Zeus
+Universe Faction Balance Collapse Darkness Incinerus
+Light Oblivion Shadow Sovereign Time
+Team Build Advice for beginners
+A-Hero skills for PVE
+CC types and meanings Acronym List + FAQ
+Credits
+
+
+
+
+
+
+
+
+
+
+
+Hero Build Guide
+SUPERMAN FACTION
+The following section contains recommendations for:
+* Einstein
+* Eve
+* Gilles
+* Houston
+* Jane
+* Julianne
+* Karen
+* Kloris
+* Knox
+* Mikaela
+* Nydia
+* Pierre
+* Toko
+* Wadjet
+
+
+
+
+Einstein - Universe Sage
+
+Hero Type: Support
+
+Hero Tier: A
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Front
+
+Stat Focus: HP | Damage Immune | Crit res
+Stigmata (4-set): Redemption | Banshee Stigmata (2-set): Evolution |Sanctity Collection: -
+Artifact: Radiance Tribute | Luminous Beacon Light of Faith | Braveheart
+General Talent (PVP): 3412
+Gems: Amethyst | Kallaite |  Cat's Eye
+Gem Talent: 331
+
+
+
+
+Eve - Lady Ivy
+Hero Type: CC
+
+Hero Tier: S
+
+Recommended MINIMUM exclusive equipment level: 30
+
+Placement recommendation: Slot 1
+
+Stat Focus: Effect Hit
+
+Stigmata (4-set): Devil Spirit | Succubus | Samurai
+| Vital
+Stigmata (2-set): Zealot
+Collection: -
+
+Artifact: Bell of Chaos Genesis | Time Cycle
+
+General Talent (PVP): 1323
+
+Gems: Topaz | Accuracy | Alexandrite
+Gem Talent: 122
+
+
+
+
+Gilles - Fearless Aegis
+
+Hero Type: Tank, CC
+
+Hero Tier: S
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Front
+
+Stat Priority:  HP | Damage Immune | Crit res
+
+Stigmata (4-set): Phantom | Mirage  | Banshee
+	 |  Holy Shield
+Stigmata (2-set): Evolution | Sanctity
+Collection: Undying Symbol | Priest's Knot
+| Genesis Dagger
+
+
+
+Artifact:	|	Immortal Shield
+
+
+|	Armor of Destruction |	Nether Gloves
+
+|	Devouring Wand
+
+General Talent (PVP): 3413  | 3415
+
+Gems: Kallaite |	Cat's Eye | Topaz
+Gem Talent: 121
+
+
+
+
+Houston - Dimension Runner
+
+Hero Type: Buffer
+
+Hero Tier: A
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Back row
+
+Stat Focus: Damange Immune | HP
+
+Stigmata (4-set): Samurai |Armor Shred
+Stigmata (2-set): Sanctity
+Collection: -
+
+Artifact: Bow of Doom | Templar Glory Angel Wings | Frozen Mirror
+General Talent (PVP): 3422
+
+Gems: Kallaite | Alexandrite | Labradorite
+Gem Talent: 333
+
+
+
+
+Jane - The Fairy of Music
+
+Hero Type: Buffer
+
+Hero Tier: B
+
+Minimum recommended relics: 3
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Same row as DPS
+
+Stat Focus:  HP | Speed
+
+Stigmata (4-set): Samurai | Armor Shred
+Stigmata (2-set): Evolution | Sanctity | Zealot
+Collection: Undying Symbol | Priest's Knot
+| Genesis Dagger
+Artifact:Templar Glory | Devouring Wand
+| Radiance Tribute |	Luminous Beacon
+General Talent (PVP): 3412
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 331
+
+
+
+
+Julianne - Moonlight Paladin
+
+Hero Type: Tank
+
+Hero Tier: A
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Front
+
+Stat Focus: HP | Damage Immune
+
+Stigmata (4-set): Phantom | Bulwark | Mirage
+| Banshee |  Holy Shield
+Stigmata (2-set): Evolution | Sanctity | Zealot
+Collection: Undying Symbol | Priest's Knot
+| Genesis Dagger
+Artifact: Devil's Eye |	Devouring Wand Glorious Crown | Radiance Tribute Light of Faith
+General Talent (PVP): 3413
+
+Gems: Topaz | Kallaite |	Cat's Eye
+Gem Talent: 121
+
+
+
+
+Karen - Frontline Striker
+
+Hero Type: Buffer
+
+Hero Tier: B
+
+Recommended MINIMUM exclusive equipment level: 10
+
+Placement recommendation: -
+
+Stat Focus: ATK
+
+Stigmata (4-set): Apocalypse | Armor Shred
+Stigmata (2-set): Judgement
+Collection: -
+
+Artifact: Templar Glory |   Frozen Mirror
+General Talent (PVP): 1222
+
+Gems: Kallaite | Alexandrite | Labradorite
+Gem Talent: 332
+
+
+
+
+Kloris - Queen of Desert
+Hero Type: DPS | Debuffer | True DMG
+
+Hero Tier: S
+
+Minimum recommended relics: 18
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Back
+
+Stat Focus:  HP | ATK
+
+
+Stigmata (4-set):
+Banshee
+
+|	Apocalypse |	Enflame
+
+
+Stigmata (2-set):	Evolution |	Sanctity
+Collection: Undying Symbol | Priest's Knot
+Artifact:	Baleful Axe |	Devouring Wand
+	 | Devil's Eye |Holy Prayer Fatal Judgement
+General Talent (PVP): 3442
+
+Gems: Kallaite | Alexandrite | Labradorite
+Gem Talent: 312
+
+Special Kloris note: Kloris deals true damage. This kind of damage does not crit and does not require Armor PEN. You'll notice Armor PEN, Crit and Crit DMG have not been recommended for her. This is not a mistake and is completely on purpose. Build her HP, Damage Immune and Attack instead.
+
+
+
+
+Knox - Sacred Fistmaster
+
+Hero Type: DPS
+
+Hero Tier: A
+
+Minimum recommended relics: 18
+
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Slot 1, Back row
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+Stigmata (4-set): Broken Blade
+Stigmata (2-set): Zealot |Sin | Judgement
+Collection: Genesis Dagger | Chaos Axe
+Artifact: Hunter's Scythe | Miracle Dawn Eden Space |	Oracle's Ring
+General Talent (PVP): 1332
+Gems: White Onyx | Kallaite | Alexandrite Amethyst |	Bloodstone
+Gem Talent: 333
+
+
+
+
+Mikaela - Jade Enchantress
+
+Hero Type: DPS
+
+Hero Tier: A
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Back
+
+Stat Focus: SkillDMG | Crit | CritDMG | Armor PEN
+
+Stigmata (4-set): Vital | Apocalypse
+Striker | Broken Blade | Thorn | Enflame
+Stigmata (2-set): Zealot | Sin | Judgement Annihilation
+Collection: Genesis Dagger | Chaos Axe
+Artifact: Pit Spear | Hunter's Scythe
+     Baleful Axe |	Oracle's Ring |	Miracle Dawn Eden Space | Eternal Soul
+General Talent (PVP): 1332
+Gems:	White Onyx | Kallaite | Alexandrite Malachite | Amethyst |	Bloodstone | Emerald
+Gem Talent: 313
+
+
+
+
+
+Nydia - Secretive Witch
+
+Hero Type: Support
+
+Hero Tier: S+
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31 Placement recommendation: Above | below someone with orb Stat Focus: Speed | HP
+Stigmata (4-set): Phantom | Redemption |
+
+
+
+Stigmata (2-set):	Evolution |	Sanctity
+
+Collection: Undying Symbol | Priest's Knot
+
+
+
+Artifact:	|	Abyssal Boots
+
+
+|	Devouring Wand |	Angel Wings
+Genesis | Frozen Mirror | Turbid Orb (PVE)
+General Talent (PVP): 3412
+
+Gems: Labradorite | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 332
+
+
+
+
+Pierre - Fury Wave
+
+Hero Type: DPS
+
+Hero Tier: A
+
+Minimum recommended relics: 18
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Back
+
+Stat Focus: Armor PEN  | Crit | CritDMG | SkillDMG
+
+
+
+
+Stigmata (4-set):
+| Apocalypse
+
+|	Thorn
+
+
+
+
+Stigmata (2-set):	Sin |	Judgement |	Annihilation Zealot
+Collection: Genesis Dagger | Chaos Axe
+
+Artifact:	Tyrant's Hammer |	Baleful Axe
+	 | Oracle's Ring
+General Talent (PVP): 3321
+
+Gems: Kallaite | Alexandrite |	Malachite Emerald
+Gem Talent: 311
+
+
+
+
+Toko - Samurai Girl
+
+Hero Type: DPS
+
+Hero Tier: A
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 30
+
+Placement recommendation: Back
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+Stigmata (4-set): Samurai
+Stigmata (2-set): Zealot | Sin
+Collection: Genesis Dagger | Chaos Axe
+Artifact: Pit Spear | Hunter's Scythe
+Miracle Dawn | Fatal Judgement | Eden Space Baleful Axe
+General Talent (PVP): 1332
+
+Gems: White Onyx | Kallaite | Alexandrite Malachite | Amethyst |	Bloodstone
+Gem Talent: 313
+
+
+
+
+
+Wadjet - Heart of the Nile
+
+Hero Type: Tank
+
+Hero Tier: S+
+
+Minimum recommended relics: 3
+
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Slot 1
+
+Stat Focus: Damage Immune | HP
+
+Stigmata (4-set):	|	Guardian
+
+|	Banshee |	Redemption |	Mirage
+
+Stigmata (2-set): Evolution | Sanctity
+Collection: Undying Symbol | Priest's Knot
+
+
+
+Artifact:	|	Immortal Shield
+
+Armor of Destruction |	Glorious Crown
+Holy Prayer | Angel Wings | Heart of Calamity
+General Talent (PVP): 4452
+
+Gems: Kallaite |	Cat's Eye | Alexandrite
+Gem Talent: 111
+
+
+
+
+
+
+
+
+
+
+Hero Build Guide
+TECHNOLOGY FACTION
+The following section contains recommendations for:
+* Alfa
+* Bonnie
+* Camp (Kong)
+* Cui Pan
+* Cyborg
+* Dane
+* Hawkins
+* Irena
+* Ivy Belle
+* Kinley
+* Kisa
+* Laura
+* Magner
+* Musashi (Ronin)
+* Rex
+* Rockefeller
+
+
+
+
+Alfa - Machina
+
+Hero Type: CC
+
+Hero Tier: A
+
+Minimum recommended relics: 18
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: -
+
+Stat Focus: Speed | EffEct Hit
+
+Stigmata (4-set): Devil Spirit | Succubus
+| Samurai
+Stigmata (2-set): Sanctity
+Collection: Undying Symbol | Priest's Knot
+Artifact: Bell of Chaos | Genesis Time Cycle | Eternal Oath
+General Talent (PVP): 3413
+
+Gems: Topaz | Kallaite | Alexandrite
+Gem Talent: 121
+
+
+
+
+                  Bonnie - Crimson Queen Hero Type: Buffer
+Hero Tier: A
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: -
+
+Stat Focus:  ATK | Crit | HP | Damage Immune
+
+Stigmata (4-set): Phantom | Bulwark |	Sage Thorn | Samurai |Armor Shred
+Stigmata (2-set): Evolution | Sanctity | Judgement
+Collection: Undying Symbol | Priest's Knot
+Artifact: Bow of Doom | Devouring Wand Radiance Tribute | Templar Glory
+| Fatal Judgement |   Heart of Calamity
+General Talent (PVP): 1332
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 121
+
+
+
+
+Camp - Space Kong
+
+Hero Type: Buffer
+
+Hero Tier: S
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: -
+
+Stat Focus: Speed|Damage Immune
+Stigmata (4-set):
+Samurai |
+Banshee |	Armor ShredStigmata (2-set): Collection: -
+Evolution |
+Sanctity
+Artifact: Bow of Doom | Radiance Tribute Templar Glory |	Luminous Beacon
+Angel Wings |	Frozen Mirror | Heart of Calamity
+General Talent (PVP): 3412
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 121
+
+
+
+
+Cui Pan - Combat Type
+
+Hero Type: Debuffer
+
+Hero Tier: A
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Front
+
+Stat Focus: HP | Damage Immune
+
+Stigmata (4-set): Redemption | Banshee
+Stigmata (2-set): Evolution | Sanctity | Zealot
+Collection: -
+
+Artifact: Radiance Tribute | Luminous Beacon Light of Faith |	Fictional Reality
+General Talent (PVP): 3442
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 332
+
+
+
+
+Cyborg, The - Light of the Firmament
+
+Hero Type: Tank | CC | True DMG
+
+Hero Tier: S
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Slot 1
+
+Stat Priority:  HP | Damage Immune | Effect Hit | Crit res
+
+Stigmata (4-set): Phantom |Bulwark Mirage | Banshee | Sacred Guardian         | Devil Spirit | Holy Shield
+Stigmata (2-set): Evolution | Sanctity
+Collection: Undying Symbol | Priest's Knot
+
+
+
+Artifact:	|	Immortal Shield
+
+
+Armor of Destruction |	Devouring Wand
+
+General Talent (PVP): 3413
+
+Gems: Topaz | Kallaite | Alexandrite |	Cat's Eye
+Gem Talent: 112
+
+
+
+
+Dane - Doctor Abyss
+
+Hero Type: Buffer
+
+Hero Tier: S
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Back
+
+Stat Focus:  Speed | HP | Damage Immune
+
+
+Stigmata (4-set):	|	Redemption |	Bulwark |
+
+Sacred Guardian |	Armor Shred
+
+
+Stigmata (2-set):	Evolution |	Sanctity
+
+Collection: Undying Symbol | Priest's Knot
+Artifact: Bow of Doom | Devouring Wand
+
+Glorious Crown |	|	Genesis
+
+Templar Glory |	Luminous Beacon |	Turbid Orb
+
+General Talent (PVP): 3425
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 132
+
+
+
+
+Hawkins - Iron Giant
+Here for meme purposes only. Ineffective in both PVE and PVP.
+
+Hero Type: Tank
+
+Hero Tier: B
+
+Recommended MINIMUM exclusive equipment level: 1
+
+Placement recommendation: Slot 1
+
+Stat Focus: HP | Damage Immune
+
+Stigmata (4-set): Phantom | Banshee Stigmata (2-set): Evolution | Sanctity Collection: -
+Artifact: Radiance Tribute | Holy Prayer Light of Faith
+General Talent (PVP): 3415
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 121
+
+
+
+
+                    Irena - Morning Star Hero Type: Support | Debuffer Hero Tier: S
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Same row as DPS
+
+Stat Focus: HP | Damage Immune | Crit
+
+
+
+Stigmata (4-set):	|	Banshee |	Redemption |
+
+Bulwark |	Phantom |	Sacred Guardian
+
+Stigmata (2-set):	Evolution |	Sanctity |	Zealot
+
+Collection: Undying Symbol | Priest's Knot
+| Genesis Dagger
+Artifact: Nether Gloves |	Devouring Wand Glorious Crown | Radiance Tribute
+                        |	Fictional Reality  Heart of Calamity
+General Talent (PVP): 3452
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 322
+
+
+
+
+Ivy Belle - Radiant Neon
+
+Hero Type: CC | DPS
+
+Hero Tier: S
+
+Minimum recommended relics: 18
+
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Back
+
+Stat Focus: Armor PEN | Crit
+Stigmata (4-set): Phantom | Thorn |Devil Spirit Broken Blade |
+Stigmata (2-set): Sanctity | Zealot | Sin Annihilation
+Collection: Genesis Dagger | Chaos Axe
+Artifact: Misanthropy | Pit Spear Abyssal Boots | Baleful Axe
+		 |Sacred Radiance Codex Time Cycle |	Eternal Oath
+General Talent (PVP): 1333
+Gems: Topaz | Kallaite | Alexandrite Malachite | Amethyst
+Gem Talent: 333
+
+
+
+
+Kinley - Mecha Valkyrie
+
+Hero Type: DPS
+
+Hero Tier: A
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: -
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+
+Stigmata (4-set):	|	Samurai |	Vital
+
+Thorn |	Striker (PVE)
+Stigmata (2-set): Zealot | Sin
+| Annihilation (PVE)
+Collection: Genesis Dagger | Chaos Axe
+Artifact: Hunter's Scythe | Pit Spear Misanthropy |Turbid Orb (PVE) | 
+Eden Space |	Baleful Axe
+General Talent (PVP): 1332
+Gems: White Onyx | Kallaite | Alexandrite Malachite | Amethyst |	Bloodstone
+Gem Talent: 333
+
+
+
+Kisa - The Phantom of the Sand
+
+Hero Type: CC
+
+Hero Tier: S+
+
+Minimum recommended relics: 3
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Back
+
+Stat Focus: Speed | Effect Hit
+
+Stigmata (4-set): Phantom |  Sage | Succubus | Banshee
+Stigmata (2-set): Evolution | Sanctity | Zealot
+Collection: Undying Symbol | Priest's Knot
+
+
+
+Artifact:	|	Bow of Doom
+
+
+Time Cycle |	Eternal Oath |	Nether Gloves
+
+General Talent (PVP): 3413
+
+Gems: Topaz | Kallaite | Alexandrite
+Gem Talent: 121
+
+
+
+
+Laura - Storm Falcon
+
+Hero Type: DPS
+
+Hero Tier: A
+
+Minimum recommended relics: 18
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Slot 1
+
+Stat Focus: Speed | Crit | CritDMG | Armor PEN
+
+Stigmata (4-set): Striker | Vital | Apocalypse Thorn
+Stigmata (2-set): Zealot | Sin | Judgement
+Collection: Genesis Dagger | Chaos Axe
+Artifact: Hunter's Scythe | Abyssal Boots
+|	Baleful Axe |	Miracle Dawn | Eternal Soul
+General Talent (PVP): 1322
+
+Gems: Kallaite | Alexandrite Malachite | Amethyst |	Bloodstone
+Gem Talent: 311
+
+
+
+
+           Magner - Hammer of Destruction Hero Type: Tank | True DMG
+Hero Tier: S
+
+Minimum recommended relics: 9
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Back
+
+Stat Focus: HP | Damage Immune | Speed
+
+
+Stigmata (4-set):	Phantom |	|	Mirage
+
+|	Banshee |	Sage |	Sacred Guardian |	Armor Shred  Holy Shield
+Stigmata (2-set): Evolution | Sanctity Collection: Undying Symbol | Priest's Knot Artifact: Bow of Doom | 
+Armor of Destruction |	Devouring Wand
+Radiance Tribute | Angel Wings |	Light of Faith  Heart of Calamity
+General Talent (PVP): 3435
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite | Labradorite
+Gem Talent: 122
+
+
+
+
+Musashi - Cyber Ronin
+
+Hero Type: Buffer
+
+Hero Tier: B
+
+Minimum recommended relics: 9
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: -
+
+Stat Focus:  Speed | HP
+
+Stigmata (4-set):Samurai |Armor Shred Stigmata (2-set): Judgement | Zealot Collection: Undying Symbol | Priest's Knot
+Artifact: Bow of Doom | Radiance Tribute Templar Glory | Frozen Mirror
+General Talent (PVP): 3422
+
+Gems: Kallaite | Alexandrite | Labradorite
+Gem Talent: 122
+
+
+
+
+Rex - Mecha Rex
+
+Hero Type: Tank
+
+Hero Tier: B
+
+Minimum recommended relics: 9
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Slot 1
+
+Stat Focus: HP | Damage Immune
+
+
+
+Stigmata (4-set):Guardian |Banshee |Vital
+Stigmata (2-set):
+Sanctity |
+Sin |
+Evolution
+Collection: Undying Symbol | Priest's Knot
+Artifact:	Armor of Destruction | Glorious Crown Holy Prayer
+General Talent (PVP): 3322
+
+Gems: Kallaite | Alexandrite | Labradorite
+Bloodstone
+Gem Talent: 121
+
+
+
+
+Rockefeller - Blaze Centaur
+
+Hero Type: Tank | CC
+
+Hero Tier: A
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Slot 1
+
+Stat Focus: HP | Damage Immune | Effect Hit
+
+Stigmata (4-set): Banshee | Guardian
+Stigmata (2-set): Evolution
+Collection: -
+
+Artifact: Glorious Crown | Radiance Tribute Light of Faith
+General Talent (PVP): 3413
+
+Gems: Topaz | Kallaite | Alexandrite
+Gem Talent: 121
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hero Build Guide
+DARK FACTION
+The following section contains recommendations for:
+* Alcazar
+* Anna
+* Baron
+* Behemoth
+* Camilla
+* Cara
+* Eddie
+* Focalor (God Slayer)
+* Gonibal
+* Lucas
+* Marduk
+* Medusa
+* Ophelia
+* Satan
+* Van Helsing
+* Vulcano
+
+
+
+
+Alcazar - Spectral Witch
+
+Hero Type: DPS
+
+Hero Tier: A
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Back
+
+Stat Focus: Crit | Crit DMG
+Stigmata (4-set): Vital | Apocalypse Domination | Thorn | Enflame
+Stigmata (2-set): Zealot | Sin |Judgement Collection: Genesis Dagger | Chaos Axe Artifact: Pit Spear | Hunter's Scythe
+|	Tyrant's Hammer |	Miracle Dawn | Eden Space
+Meteorite Dust | Eternal Soul
+General Talent (PVP): 2322
+
+Gems:	White Onyx | Kallaite | Alexandrite Amethyst |	Bloodstone
+Gem Talent: 313
+
+
+
+
+Anna - Succuba
+
+Hero Type: CC
+
+Hero Tier: A
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Front
+
+Stat Focus: Speed | Effect Hit
+
+Stigmata (4-set): Succubus | Devil Spirit Stigmata (2-set): Evolution | Sanctity Collection: Undying Symbol | Priest's Knot
+Artifact: Bell of Chaos | Time Cycle Eternal Oath
+General Talent (PVP): 3423
+
+Gems: Topaz | Kallaite | Alexandrite
+Gem Talent: 122
+
+
+
+
+Baron - Hell's Emissary
+
+Hero Type: DPS
+
+Hero Tier: S
+
+Minimum recommended relics: 18
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Back
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+Stigmata (4-set): Berserk | Samurai | Thorn
+Stigmata (2-set): Zealot
+Collection: Genesis Dagger | Chaos Axe
+Artifact: Pit Spear | Hunter's Scythe
+| Tyrant's Hammer  | Miracle Dawn |	Eternal Soul
+Oracle's Ring
+
+General Talent (PVP): 2332
+
+Gems: White Onyx | Kallaite | Alexandrite Amethyst |	Bloodstone
+Gem Talent: 313 / 333
+
+
+
+
+Behemoth - Catastrophe
+
+Hero Type: Tank | CC
+
+Hero Tier: A
+
+Recommended MINIMUM exclusive equipment level: 10
+
+Placement recommendation: Front
+
+Stat Focus: HP | Damage Immune | Effect Hit
+
+Stigmata (4-set): Banshee
+Stigmata (2-set): Evolution | Sanctity
+Collection: -
+
+Artifact: Glorious Crown | Radiance Tribute Light of Faith
+General Talent (PVP): 3413
+
+Gems: Topaz | Kallaite | Alexandrite
+Gem Talent: 121
+
+
+
+
+
+Camilla - Bloodnight Baroness
+
+Hero Type: Tank
+
+Hero Tier: A
+
+Minimum recommended relics: 3
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Front
+
+Stat Focus: HP | Damage Immune
+Stigmata (4-set): Mirage | Banshee
+  Sacred Guardian |Armor Shred | Holy Shield Stigmata (2-set): Evolution | Sanctity Collection: Undying Symbol | Priest's Knot
+Genesis Dagger
+Artifact: Devil's Eye |	Armor of Destruction Nether Gloves | Glorious Crown
+| Radiance Tribute |	Life Source Light of Faith
+General Talent (PVP): 3415
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 121
+
+
+
+
+Cara - Requiem Blade
+
+Hero Type: DPS
+
+Hero Tier: A
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Back
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+Stigmata (4-set): Samurai |Broken Blade | Thorn
+Stigmata (2-set): Zealot | Sin
+Collection: Genesis Dagger | Chaos Axe
+Artifact: Pit Spear | Hunter's Scythe
+Miracle Dawn | Fatal Judgement | Eden Space
+General Talent (PVP): 1332
+
+Gems: White Onyx | Kallaite | Alexandrite Malachite | Amethyst |	Bloodstone
+Gem Talent: 313
+
+
+
+
+Eddie - Nightmare Flame
+
+Hero Type: DPS
+
+Hero Tier: B
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Back
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+Stigmata (4-set): Apocalypse Stigmata (2-set): Zealot | Sin Collection: -
+Artifact: Oracle's Ring | Miracle Dawn
+| Eden Space | Meteorite Dust | Primal Power Sacred Radiance Codex
+General Talent (PVP): 1322
+
+Gems: White Onyx | Kallaite | Alexandrite Malachite | Amethyst |	Bloodstone
+Gem Talent: 333
+
+
+
+
+Focalor - The God Slayer
+
+Hero Type: DPS
+
+Hero Tier: S
+
+Minimum recommended relics: 18
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Front
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+
+
+Stigmata (4-set):	|	Samurai |	Berserk
+
+
+Stigmata (2-set):	Zealot
+
+Collection: Genesis Dagger | Chaos Axe
+
+
+
+Artifact:	|	Hunter's Scythe
+
+|	Turbid Orb (PVE) |	Miracle Dawn |	Eden Space
+
+General Talent (PVP): 1332
+
+Gems: White Onyx | Kallaite | Alexandrite Amethyst |	Bloodstone
+Gem Talent: 333
+
+
+
+
+Gonibal - Unlucky Aborigine
+
+Hero Type: Tank | CC
+
+Hero Tier: A
+
+Recommended MINIMUM exclusive equipment level: 10
+
+Placement recommendation: Front
+
+Stat Focus: HP | Damage Immune
+
+Stigmata (4-set): Banshee
+Stigmata (2-set): Evolution | Sanctity
+Collection: -
+
+Artifact: Glorious Crown | Radiance Tribute Light of Faith
+General Talent (PVP): 3413
+
+Gems: Topaz | Kallaite | Alexandrite
+Gem Talent: 121
+
+
+
+
+Lucas - Demon of Souls
+
+Hero Type: Support
+
+Hero Tier: S
+
+Minimum recommended relics: 0
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Front
+
+Stat Focus: HP | Damage Immune
+
+Stigmata (4-set): Phantom | Redemption | Bulwark
+
+|	Sage |	|	Holy Shield
+
+
+Stigmata (2-set):	Evolution |	Sanctity |	Zealot
+
+Collection: Undying Symbol | Priest's Knot
+Artifact: Turbid Orb |	Devouring Wand
+	 |	Light of Faith | Nether Gloves
+|	Fictional Reality | Heart of Calamity
+General Talent (PVP): 3412
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 111
+
+
+
+
+
+            Marduk - Saint of the Underworld Hero Type: Buffer (increase DOT), healer Hero Tier: S+
+Minimum recommended relics: 18
+
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Back
+
+Stat Focus: HP | Damage Immune
+
+Stigmata (4-set): Phantom | Redemption | Bulwark | Sacred Guardian |  Withering
+| Holy Shield
+Stigmata (2-set): Evolution | Sanctity |Zealot
+Collection: Undying Symbol | Priest's Knot
+
+
+Artifact:	|	Bow of Doom
+
+
+       Devouring Wand |	Radiance Tribute Luminous Beacon | Fictional Reality
+
+General Talent (PVP): 3455
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 231
+
+
+
+
+Medusa - Medusa
+
+Hero Type: CC
+
+Hero Tier: A
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Back
+
+Stat Focus: Speed | Effect Hit
+
+Stigmata (4-set): Succubus
+Stigmata (2-set): Evolution | Sanctity
+Collection: -
+Artifact: Time Cycle | Eternal Oath
+General Talent (PVP): 3423
+
+Gems: Topaz | Kallaite | Alexandrite
+Gem Talent: 121
+
+
+
+
+Ophelia - Heaven-Piercing Wing
+
+Hero Type: DPS
+
+Hero Tier: S+
+
+Minimum recommended relics: 18
+
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: -
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+
+
+Stigmata (4-set):	|	Withering
+
+
+
+Stigmata (2-set):	Zealot |	Sin  |	Judgement
+
+Collection: Genesis Dagger | Chaos Axe
+
+
+
+Artifact:	Evil Dreadsword
+Baleful Axe | Pit Spear | Sacred Radiance Codex
+General Talent (PVP): 1312
+
+Gems: Kallaite | Alexandrite Malachite | Amethyst |	Bloodstone
+Gem Talent: 312
+
+
+
+
+Satan - King of Hell
+
+Hero Type: DPS
+
+Hero Tier: A
+
+Minimum recommended relics: 3
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Back
+
+Stat Focus: Speed | Crit | CritDMG | Armor PEN
+
+Stigmata (4-set): Samurai | Vital | Apocalypse
+| Broken Blade | Thorn
+Stigmata (2-set): Zealot | Sin Collection: Genesis Dagger | Chaos Axe Artifact: Pit Spear | Abyssal Boots
+|	Oracle's Ring | Eternal Soul |Eden Space
+General Talent (PVP): 1332
+
+Gems: White Onyx | Kallaite | Alexandrite Malachite | Amethyst |	Bloodstone
+Gem Talent: 313
+
+
+
+
+Van Helsing - Devil Hunter
+
+Hero Type: DPS
+
+Hero Tier: B
+
+Recommended MINIMUM relics: 9
+
+Recommended MINIMUM exclusive equipment level: 30
+
+Placement recommendation: Back
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+Stigmata (4-set): Vital | Apocalypse | Domination Stigmata (2-set): Zealot | Sin | Judgement Collection: -
+
+Artifact:	Oracle's Ring | Eternal Soul Misanthropy
+General Talent (PVP): 1334
+
+Gems: White Onyx | Kallaite | Alexandrite Malachite | Amethyst |	Bloodstone
+Gem Talent: 313
+
+
+
+
+Vulcano - Molten Wrath
+Hero Type: Tank | True DMG
+
+Hero Tier: S+
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Front
+
+Stat Focus: HP | Damage Immune | Crit res
+
+Stigmata (4-set): Bulwark | Sacred Guardian
+| Phantom | Mirage | Banshee | Guardian  Withering |
+Stigmata (2-set): Evolution | Sanctity
+Collection: Undying Symbol | Priest's Knot
+Artifact: Devil's Eye |	Immortal Shield
+	  |     Glorious     Crown Holy Prayer | Light of Faith
+General Talent (PVP): 3412
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite |Labradorite
+Gem Talent: 121
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hero Build Guide
+NATURE FACTION
+The following section contains recommendations for:
+* Ayana
+* Aphra
+* Daluna
+* Elodie
+* Feng
+* Forest Avatar (Epeius)
+* Guton
+* Indira
+* Julia
+* Logan
+* Lora
+* Loufontiel (Deer Girl)
+* Lucy
+* Marilina
+* Michelangelo (Thinker)
+* Noah
+* Sally
+* Sharmaka
+* Silas
+
+
+
+
+Ayana - Flowerkeeper Spirit
+
+Hero Type: Support | True DMG
+
+Hero Tier: A (PVP) S+ (PVE)
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Front row
+
+Stat Focus: Speed | HP
+
+Stigmata (4-set): Guardian | Phantom | Redemption Armor Shred
+Stigmata (2-set): Evolution | Sanctity | Zealot
+Collection: Undying Symbol | Priest's Knot
+| Genesis Dagger
+Artifact: Genesis | Turbid Orb (PVE)
+General Talent (PVP): 3452
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 332
+
+
+
+
+Aphra - Battlefield Angel
+
+Hero Type: Support
+
+Hero Tier: B
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Front
+
+Stat Focus: HP | Damage Immune
+
+Stigmata (4-set): Redemption
+Stigmata (2-set): Evolution | Zealot
+Collection: -
+
+Artifact: Radiance Tribute | Luminous Beacon Braveheart |  Fictional Reality
+General Talent (PVP): 3452
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 331
+
+
+
+
+Daluna - Moon Princess
+
+Hero Type: DPS | (self) buffer | True DMG
+
+Hero Tier: A
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Back
+
+Stat Focus:  ATK | HP
+Stigmata (4-set): Vital | Apocalypse |  Guardian
+Stigmata (2-set): Evolution |Sanctity |Judgement Collection: Undying Symbol | Priest's Knot Artifact: Fatal Judgement |	Baleful Axe
+
+General Talent (PVP): 2112
+Gems: Kallaite | Alexandrite | Labradorite
+Gem Talent: 313
+Special Deluna note: Deluna deals true damage. This kind of damage does not crit and does not require Armor PEN. You'll notice Armor PEN, Skill DMG, Crit and Crit DMG have not been recommended for her. While you can build them, as they convert to Attack, a straight Attack approach is recommended.
+
+
+
+
+Elodie - Winter Lord
+Hero Type: CC
+
+Hero Tier: S
+
+Minimum recommended relics: 18
+
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Front
+
+Stat Focus: Speed | Effect Hit | Damage Immune
+
+
+
+Stigmata (4-set):	Phantom | Sage |	Devil Spirit
+
+|	Banshee
+
+
+Stigmata (2-set):	Evolution |	Sanctity
+
+Collection: Undying Symbol | Priest's Knot
+Artifact: Turbid Orb | Bell of Chaos Devil's Eye | Bow of Doom | Abyssal Boots Luminous Beacon | Angel Wings |	Genesis           | Eternal Oath
+General Talent (PVP): 3433
+
+Gems: Topaz | Kallaite | Alexandrite |	White Onyx
+Gem Talent: 121
+
+
+
+
+Feng - Panda Chef
+
+Hero Type: Tank
+
+Hero Tier: B
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation:Slot 1
+
+Stat Focus: HP | Damage Immune
+
+Stigmata (4-set): Redemption
+Stigmata (2-set): Evolution | Sanctity
+Collection: -
+
+Artifact: Angel Wings
+General Talent (PVP): 3412
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 121
+
+
+
+
+Forest Avatar - Epeius
+
+Hero Type: DPS
+
+Hero Tier: B
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Back
+
+Stat Focus: Crit | CritDMG | Armor PEN  | SkillDMG
+
+Stigmata (4-set): Vital | Apocalypse Thorn | Striker
+Stigmata (2-set): Zealot | Sin | Annihilation
+Collection: -
+
+
+Artifact:	Pit Spear |	Oracle's Ring
+Eternal Soul |Hunter's Scythe
+General Talent (PVP): 1332
+
+Gems: White Onyx | Kallaite | Alexandrite Malachite | Amethyst |	Bloodstone | Emerald
+Gem Talent: 313
+
+
+
+
+
+Guton - Treant Guardian
+
+Hero Type: Tank
+
+Hero Tier: S
+
+Minimum recommended relics: 3
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Front
+
+Stat Focus: HP | Damage Immune | Crit Res
+
+Stigmata (4-set): Bulwark | Mirage
+
+|	Banshee |	|	Sacred Guardian
+
+
+Stigmata (2-set):	Evolution |	Sanctity
+
+Collection: Undying Symbol | Priest's Knot
+
+
+
+Artifact:	|	Armor of Destruction
+
+Glorious Crown |	Light of Faith
+
+General Talent (PVP): 3415
+
+Gems: Kallaite |	Cat's Eye
+| Alexandrite |Labradorite
+Gem Talent: 111
+
+
+
+
+Indira - Electric Arc
+
+Hero Type: DPS
+
+Hero Tier: A
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 30
+
+Placement recommendation: Back
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+Stigmata (4-set): Vital | Apocalypse | Striker Enflame
+Stigmata (2-set): Zealot | Sin | Judgement
+Collection: Genesis Dagger | Chaos Axe
+Artifact:  Hunter's  Scythe  |  Baleful  Axe Miracle Dawn | Fatal Judgement | Meteorite Dust General Talent (PVP): 1322
+
+Gems: White Onyx | Kallaite | Alexandrite Malachite | Amethyst |	Bloodstone
+Gem Talent: 311
+
+
+
+
+Julia - Forest Dancer
+
+Hero Type: DPS
+
+Hero Tier: S+
+
+Minimum recommended relics: 18
+
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Back
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+Stigmata (4-set): Berserk | Samurai
+
+
+
+Stigmata (2-set):
+
+Collection: Genesis Dagger | Chaos Axe
+Artifact: Hunter's Scythe | 
+| Pit Spear | Oracle's Ring |	Baleful Axe
+General Talent (PVP): 1332
+
+Gems: White Onyx | Kallaite | Alexandrite Amethyst |	Bloodstone
+Gem Talent: 313
+
+
+
+
+Logan - Wings of Wrath
+
+Hero Type: Tank
+
+Hero Tier: A
+
+Minimum recommended relics: 3
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Slot 1
+
+Stat Focus: HP | Damage Immune | Crit res
+
+Stigmata (4-set): Banshee | Guardian
+| Sacred Guardian
+Stigmata (2-set): Evolution | Sanctity Collection: Undying Symbol | Priest's Knot Artifact: Devil's Eye | Angel Wings General Talent (PVP): 3412
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 121
+
+
+
+
+           Lora - Dragon Edict Priestess Hero Type: Healer | DPS
+Hero Tier: S+
+
+Minimum recommended relics: 3
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Back
+
+Stat Focus:  Armor PEN | Crit |  CritDMG
+
+Stigmata (4-set): 
+Stigmata (2-set): Zealot |Sin |Judgement
+Collection: Genesis Dagger | Chaos Axe
+Artifact: Baleful Axe | Pit Spear
+	 |Fatal Judgement
+General Talent (PVP): 2342
+Gems:	Malachite | Amethyst | Kallaite Alexandrite |Labradorite |  Bloodstone
+Gem Talent: 311
+
+
+
+
+Loufontiel - Immortal Spirit Deer
+
+Hero Type: Buffer | Support
+
+Hero Tier: A
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Back
+
+Stat Focus: HP | Damage Immune | Crit res
+Stigmata (4-set):Phantom | Redemption | Bulwark Sage | Guardian |
+Stigmata (2-set): Evolution | Sanctity | Zealot Collection: Undying Symbol | Priest's Knot Genesis Dagger
+Artifact: Bow of Doom | Immortal Shield  Heart of Calamity | Nether Gloves
+       Devouring Wand | Glorious Crown Radiance Tribute |	Luminous Beacon
+
+
+
+
+General Talent
+
+|	Fictional Reality
+
+(PVP): 3452 / 3412
+
+
+Gems:	Amethyst |	Kallaite |	Cat's Eye |	Alexandrite
+
+Gem Talent: 331
+
+
+
+
+Lucy - Storm Walker
+
+Hero Type: Buffer
+
+Hero Tier: A
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Front
+
+Stat Focus:  Speed | HP | Damage Immune
+
+Stigmata (4-set): Samurai | Banshee |	Sage Armor Shred
+Stigmata (2-set): Evolution | Sanctity
+Collection: -
+
+Artifact: Bow of Doom | Radiance Tribute
+| Frozen Mirror
+General Talent (PVP): 3422
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 132
+
+
+
+
+Marilina - Marina Heartsea
+
+Hero Type: Support
+
+Hero Tier: A
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Front
+
+Stat Focus: HP | Damage Immune | Crit res
+Stigmata (4-set): Phantom | Bulwark | Mirage
+
+|	Banshee |	|	Armor Shred |	Holy Shield
+
+Stigmata (2-set):	Evolution |	Sanctity |	Zealot Collection: Undying Symbol | Priest's Knot Genesis Dagger
+Artifact: Bow of Doom |  Heart of Calamity Immortal Shield | Nether Gloves
+Devouring Wand | Radiance Tribute
+
+Life Source | |	|	Glorious Crown
+
+
+General Talent (PVP): 3455
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 332
+
+
+
+
+Michelangelo - Thinker
+
+Hero Type: Tank
+
+Hero Tier: S
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: -
+
+Stat Focus: HP | Damage Immune | Crit res
+Stigmata (4-set): Phantom | Bulwark | Mirage
+
+
+     Banshee |  Holy Shield
+
+|	Sacred Guardian
+
+
+Stigmata (2-set):	Evolution |	Sanctity |	Zealot Collection: Undying Symbol | Priest's Knot Genesis Dagger
+Artifact: Immortal Shield | Devouring Wand Nether Gloves | Holy Prayer |	Light of Faith
+|	Fictional Reality
+
+General Talent (PVP): 3412
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 121
+
+
+
+
+Noah - Dawnwarden
+
+Hero Type: Tank
+
+Hero Tier: S+
+
+Minimum recommended relics: 3
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Front
+
+Stat Focus: HP | Damage Immune | Crit res
+Stigmata (4-set): Phantom | Bulwark | Mirage Banshee | Guardian | 
+|Armor Shred |  Holy Shield
+Stigmata (2-set): Evolution | Sanctity Collection: Undying Symbol | Priest's Knot Genesis Dagger
+Artifact: Bow of Doom |	Immortal Shield
+	 | Devouring Wand
+Nether Gloves | Holy Prayer |Radiance Tribute
+General Talent (PVP): 3415
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 121
+
+
+
+
+Sally - Mother of Swarms
+
+Hero Type: DPS
+
+Hero Tier: A
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Back
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+Stigmata (4-set): Apocalypse Stigmata (2-set): Zealot | Sin Collection: -
+Artifact: Miracle Dawn | Fatal Judgement Meteorite Dust | Primal Power
+General Talent (PVP): 1332
+
+Gems: White Onyx | Kallaite | Alexandrite Malachite | Amethyst |	Bloodstone
+Gem Talent: 313
+
+
+
+
+Sharmaka - Forest Watcher
+
+Hero Type: Support
+
+Hero Tier: S
+
+Minimum recommended relics: 3
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Back Row
+
+Stat Focus: HP | Damage Immune | Crit res
+
+
+
+
+Stigmata (4-set):
+
+Sage
+
+|	Redemption |	Phantom
+
+
+Bulwark |	Sacred Guardian
+
+Stigmata (2-set): Evolution | Sanctity
+Collection: Undying Symbol | Priest's Knot
+
+
+Artifact:	|	Devouring Wand
+
+       Radiance Tribute |	Glorious Crown  Heart of Calamity
+
+
+General Talent (PVP): 3415
+
+Gems: Kallaite |	Cat's Eye | Alexandrite
+Gem Talent: 231
+
+
+
+
+Silas - Evolver
+
+Hero Type: CC
+
+Hero Tier: B
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Front
+
+Stat Focus: Effect Hit
+
+Stigmata (4-set): Banshee Stigmata (2-set): Judgement Collection: -
+Artifact: Radiance Tribute | Braveheart
+General Talent (PVP): 3423
+
+Gems: Topaz | Kallaite | Alexandrite
+Gem Talent: 121
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hero Build Guide
+GOD FACTION
+The following section contains recommendations for:
+* Anubis
+* Astraea
+* Asura
+* Hera
+* Life
+* Lucadia
+* Orochi
+* Poseidon
+* Sun Wukong (Monkey King)
+* Vesperia
+* Yi
+* Zeus
+
+
+
+
+Anubis - God of Egypt
+
+Hero Type: Tank | CC
+
+Hero Tier: A
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Front
+
+Stat Focus: HP | Damage Immune | Crit res | Effect Hit
+
+Stigmata (4-set): Phantom | Bulwark
+| Sacred Guardian | Holy Shield
+Stigmata (2-set): Evolution | Sanctity
+Collection: Undying Symbol | Priest's Knot
+Artifact: Bow of Doom | Devouring Wand Angel Wings | Radiance Tribute
+ Heart of Calamity
+General Talent (PVP): 3415
+
+Gems: Topaz | Kallaite | Alexandrite
+Gem Talent: 121
+
+
+
+
+         Astraea - Mother of Stars Hero Type: Support
+Hero Tier: S+
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Back Row
+
+Stat Focus: HP | Damage Immune | Crit res
+
+Stigmata (4-set): Redemption | Phantom | Bulwark
+| Mirage | Guardian | Armor Shred |
+Stigmata (2-set): Evolution | Sanctity | Zealot
+Collection: Undying Symbol | Priest's Knot
+| Genesis Dagger
+
+
+
+Artifact:	|	Devouring Wand
+
+Radiance Tribute |	Life Source |	Fictional Reality
+
+General Talent (PVP): 3452
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 311
+
+
+
+
+Asura - Anti-god
+
+Hero Type: DPS
+
+Hero Tier: S+
+
+Minimum recommended relics: 18
+
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Back row
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+Stigmata (4-set): Berserk | Broken Blade
+
+
+
+
+Stigmata (2-set):
+
+
+Collection:	Genesis Dagger
+
+
+
+Artifact:	|	Tyrant's Hammer
+
+
+Hunter's Scythe  |	Miracle Dawn
+
+General Talent (PVP): 1341
+Gems:	White Onyx | Kallaite | Alexandrite Amethyst |	Bloodstone
+Gem Talent: 333
+
+
+
+
+Hera - Queen of Heaven
+Hero Type: Tank
+
+Hero Tier: S+
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Slot 1
+
+Stat Focus: HP | Damage Immune | Crit res Stigmata (4-set): Banshee |Guardian Sacred Guardian | 
+Stigmata (2-set): Evolution | Sanctity |Zealot Sin
+Collection: Undying Symbol | Priest's Knot
+Artifact: Devil's Eye |	Immortal Shield Armor of Destruction |
+Glorious Crown | Radiance Tribute
+ Heart of Calamity
+General Talent (PVP): 3412
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 131
+
+
+
+
+Life - Goddess of Life
+
+Hero Type: Support
+
+Hero Tier: S
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Back Row
+
+Stat Focus: HP | Damage Immune | Crit res
+
+Stigmata (4-set): Redemption | Phantom | Bulwark
+| Mirage | Sacred Guardian |   Holy Shield
+Stigmata (2-set): Evolution | Sanctity | Zealot
+Collection: Undying Symbol | Priest's Knot
+| Genesis Dagger
+Artifact: Nether Gloves |	Devouring     Wand Radiance Tribute |	Life Source |  Fictional Reality
+
+|	|	Heart of Calamity
+
+General Talent (PVP): 3452
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 332
+
+
+
+
+Lucadia - Goddess of War
+
+Hero Type: Buffer
+
+Hero Tier: S+
+
+Minimum recommended relics: 3
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Front
+
+Stat Focus: HP | Damage Immune | Crit res
+
+Stigmata (4-set): Phantom | Bulwark |
+Stigmata (2-set): Sanctity |Evolution
+Collection: Undying Symbol | Priest's Knot
+Artifact: Bow of Doom | Immortal Shield
+Angel Wings |
+Armor of
+Destruction |	LuminousBeacon
+
+General Talent (PVP):
+3422Gems: Amethyst |
+| Alexandrite
+Kallaite| Cat's EyeGem Talent: 122
+
+
+
+
+Orochi
+
+Hero Type: DPS
+
+Hero Tier: A
+
+Minimum recommended relics: 9
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Slot 1
+
+Stat Focus: SkillDMG | Crit | CritDMG | Armor PEN
+
+Stigmata (4-set): Striker (PVE) | Withering Stigmata (2-set): 	  Collection: Genesis Dagger | Chaos Axe
+
+
+Artifact:	|	Hunter's Scythe
+
+Baleful Axe |	Miracle Dawn |	Eternal Soul
+
+Pit Spear |	Sacred Radiance Codex
+
+General Talent (PVP): 1322
+
+Gems: Kallaite | Alexandrite
+Malachite | Amethyst |	Bloodstone | Emerald
+Gem Talent: 333
+
+
+
+
+             Poseidon - Goddess of Ocean Hero Type: DPS | Debuffer | Holy DMG Hero Tier: S
+Minimum recommended relics: 0
+
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Back
+
+Stat Focus: Crit | Crit DMG
+
+Stigmata (4-set): Vital | Thorn | 
+Stigmata (2-set): Zealot
+Collection: Genesis Dagger | Chaos Axe
+Artifact: Baleful Axe | Hunter's Scythe
+	 | Meteorite Dust
+General Talent (PVP): 1122
+
+Gems: Kallaite | Alexandrite |Malachite
+| Amethyst |	Bloodstone
+Gem Talent: 311
+
+
+
+
+Sun Wukong - Great Sage
+
+Hero Type: DPS
+
+Hero Tier: A
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Back
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+Stigmata (4-set): Thorn | Broken Blade | Berserk
+Stigmata (2-set): Zealot
+Collection: Genesis Dagger | Chaos Axe
+
+Artifact:	Pit Spear |	Tyrant's Hammer
+| Hunter's Scythe
+General Talent (PVP): 1332
+
+Gems: White Onyx | Kallaite | Alexandrite Amethyst |	Bloodstone
+Gem Talent: 333
+
+
+
+
+Vesperia - Goddess of Joy
+
+Hero Type: Buffer | DPS
+
+Hero Tier: S
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Back
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+
+
+Stigmata (4-set):	Vital |	|	Broken Blade
+
+
+
+Stigmata (2-set):	Zealot |	Sin |	Judgement
+
+Collection: Genesis Dagger | Chaos Axe
+
+
+
+Artifact:	|	Pit Spear
+
+
+|	Tyrant's Hammer |	Hunter's Scythe
+
+General Talent (PVP): 2322
+
+Gems: White Onyx | Kallaite | Alexandrite
+Bloodstone
+
+Gem Talent: 131
+
+
+
+
+Yi - Dimension Emperor
+
+Hero Type: Tank
+
+Hero Tier: S
+
+Minimum recommended relics: 3
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Front
+
+Stat Focus: HP | Damage Immune | Crit res
+
+Stigmata (4-set): Phantom | Bulwark | Mirage
+
+|	Banshee |	|	Sacred Guardian
+
+
+Stigmata (2-set):	Evolution |	Sanctity
+
+Collection: Undying Symbol | Priest's Knot
+Artifact: Immortal Shield | Armor of Destruction Glorious Crown | 
+
+General Talent (PVP): 3415
+
+
+
+Gems:Amethyst |Kallaite |Cat's Eye|Alexandrite |Labradorite
+Gem Talent: 111
+
+
+
+
+Zeus - God of Sky
+
+Hero Type: CC
+
+Hero Tier: A
+
+Minimum recommended relics: 3
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Above DPS
+
+Stat Focus: Effect Hit | Crit
+
+Stigmata (4-set): Succubus | Phantom | Vital
+|	Sage |Devil Spirit
+Stigmata (2-set): Sanctity | Zealot | Sin Evolution
+Collection: Genesis Dagger | Chaos Axe
+Artifact: Turbid Orb | Genesis |Bell of Chaos Time Cycle | Eternal Oath
+
+General Talent (PVP): 3333
+
+Gems: Topaz | Kallaite | Alexandrite
+Gem Talent: 123
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hero Build Guide
+UNIVERSE FACTION
+The following section contains recommendations for:
+* Balance
+* Collapse
+* Darkness
+* Incinerus
+* Light
+* Oblivion
+* Shadow
+* Sovereign
+* Time
+
+
+
+
+Balance
+
+Hero Type: CC
+
+Hero Tier: S+
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Back
+
+Stat Focus: Speed | Effect Hit
+
+Stigmata (4-set): Phantom | Succubus |  Stigmata (2-set): Evolution | Sanctity Collection: Undying Symbol | Priest's Knot
+
+
+Artifact:	|	Turbid Orb
+
+Time Cycle |	Eternal Oath
+
+General Talent (PVP): 3413
+
+Gems: Topaz | Kallaite | Alexandrite
+Gem Talent: 123
+
+
+
+
+Collapse
+
+Hero Type: CC | Debuffer
+
+Hero Tier: S+
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: -
+
+Stat Focus: HP | Damage Immune | Crit res
+
+Stigmata (4-set): Bulwark | Vital | Enflame Phantom |
+Stigmata (2-set): Sanctity | Judgement
+|Annihilation
+Collection: Genesis Dagger | Chaos Axe
+
+
+
+Artifact:	|	Baleful Axe |	Angel Wings
+
+Heart of Calamity
+
+General Talent (PVP): 3322
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 123
+
+
+
+
+             Darkness Hero Type: DPS | CC Hero Tier: S
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 40 Placement recommendation: Same POS as enemy DPS Stat Focus: Crit | CritDMG | Armor PEN
+
+Stigmata (4-set):	|	Thorn
+
+
+
+Stigmata (2-set):	Zealot |	Sin
+
+Collection: Genesis Dagger | Chaos Axe
+Artifact: Hunter's Scythe | Bell of Chaos
+
+|	Tyrant's Hammer |	|	Genesis
+
+
+General Talent (PVP): 2333
+
+Gems: Topaz | Kallaite | Alexandrite Malachite | Amethyst |	Bloodstone
+Gem Talent: 313
+
+
+
+Incinerus
+
+Hero Type: DPS / Buffer
+
+Hero Tier: S
+
+Minimum recommended relics: 9
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Front
+
+Stat Focus: Crit | CritDMG | DMG IMMUNE
+
+Stigmata (4-set): Thorn | 
+Stigmata (2-set): Zealot  | Judgement
+Collection: Genesis Dagger | Chaos Axe
+
+Artifact:	Tyrant's Hammer |	Misanthropy
+| Baleful Axe | Devouring Wand
+General Talent (PVP): 1112
+
+Gems: Kallaite | Alexandrite | Amethyst
+Gem Talent: 111
+
+
+
+
+Light
+
+Hero Type: Tank | Holy DMG
+
+Hero Tier: A
+
+Minimum recommended relics: 0
+Recommended MINIMUM exclusive equipment level: 31
+
+Placement recommendation: Slot 1
+
+Stat Focus: HP | Damage Immune | Crit res | Crit
+
+Stigmata (4-set): Banshee | Vital | Berserk Armor Shred
+Stigmata (2-set): Evolution | Sanctity | Zealot
+Collection: Undying Symbol | Priest's Knot
+| Genesis Dagger
+Artifact: Baleful Axe | Devil's Eye
+Armor of Destruction | Glorious Crown
+General Talent (PVP):  3452
+
+Gems: Amethyst | Kallaite |	Cat's Eye
+| Alexandrite
+Gem Talent: 121
+
+
+
+
+Oblivion
+Hero Type: Tank | Buffer | True DMG
+
+Hero Tier: S+
+
+Minimum recommended relics: 3
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Slot 1
+
+Stat Focus: HP | Damage Immune | Crit Res
+
+Stigmata (4-set): Guardian |
+Stigmata (2-set): Sanctity |Evolution
+Collection: Undying Symbol
+Artifact: Bow of Doom |	Immortal Shield Armor of Destruction |Luminous Beacon
+
+
+
+
+General Talent (PVP): 3422
+
+Gems: Kallaite |	Cat's Eye | Labradorite Alexandrite
+Gem Talent: 112
+
+
+
+
+Shadow
+
+Hero Type: DPS
+
+Hero Tier: S+
+
+Minimum recommended relics: 9
+
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Back row
+
+Stat Focus: Crit | CritDMG | Armor PEN
+
+
+
+
+Stigmata (4-set):	Vital |  Withering
+Stigmata (2-set): Zealot | Sin
+
+|	Enflame
+
+
+
+Collection:	Genesis Dagger |	Chaos Axe
+
+Artifact: Evil Dreadsword |	Pit Spear
+
+
+|	Tyrant's Hammer |	|	Devouring Wand
+
+|	Sacred Radiance Codex
+
+General Talent (PVP): 1332
+
+Gems: Kallaite | Alexandrite Malachite | Amethyst |	Bloodstone
+Gem Talent: 313
+
+
+
+
+Sovereign
+
+Hero Type: Buffer | True DMG
+
+Hero Tier: S
+
+Minimum recommended relics: 9
+Recommended MINIMUM exclusive equipment level: 40
+
+Placement recommendation: Below Nydia
+
+Stat Focus:  ATK | HP | Damage Immune
+
+Stigmata (4-set): Phantom | Bulwark |	Sage
+ 
+Stigmata (2-set): Judgement
+Collection: Undying Symbol | Chaos Axe
+
+
+Artifact: General Talent
+
+
+
+(PVP): 1122
+
+Gems:	Kallaite |	Alexandrite |	Balas
+
+Gem Talent: 121
+
+Special Control note: Sovereign deals true damage. This kind of damage does not require Armor PEN or Crit. You'll notice Armor PEN, nor Crit have been recommended for him. This is not a mistake and is completely on purpose.
+
+
+
+
+
+             Time Hero Type: Buffer Hero Tier: S
+Minimum recommended relics: 0
+
+Recommended MINIMUM exclusive equipment level: 20
+
+Placement recommendation: Back
+
+Stat Focus: Speed
+
+Stigmata (4-set): Redemption | Phantom | Bulwark Samurai | 
+Stigmata (2-set): Evolution | Sanctity
+Collection: Undying Symbol | Priest's Knot
+Artifact: Turbid Orb |	Devouring Wand
+
+
+Angel Wings |	Abyssal Boots |
+
+General Talent (PVP): 3432
+Gems: Amethyst | Kallaite |	Cat's
+| Alexandrite
+Gem Talent: 331
+
+
+
+
+
+Eye
+
+Team Build Advice for beginners.
+
+Every good team consists of a few things.
+1-2 tanks (the ones taking the bulk of the damage. Such as thinker, Paladin, Rockefeller)
+1-2 DP S (your damage dealers. Toko, Indira, Laura etc)
+2-4 Supports and buffers | Debuffers (like Cui pan who removes CC, Silas who disables the highest attack enemy and Cupid who buffs the heroes in spots 1,2)
+
+When team building, it's important to remember special boosts you can gain from different compositions. See attached diagrams. Also, Serena (Miss USA) increases ally SUPERMAN FACTION Armor and Attack.
+
+*Faction bonus in star tech adds onto the faction bonus chart. Generally not worth upgrading.
+
+Most DPS heroes you encounter earlier game target the front row, so it's best to put your tanks in the front. Some tanks need to be in position 1. Read each hero's skills. For heroes such as Cui pan, who rely on getting to half life for their special ability, try put them in positions 3 or 4. The DPS, bar those who have counter abilities (like GS) go in the back.
+
+
+
+
+Special note: PVE modes such as void, hub, wish boss, QI have reflectant damage. Meaning the faster you do big damage, the faster you die. Because the damage they deal you directly scales from the damage you do them. Keep that in mind when building your teams.
+
+A-hero skills for PVE
+
+Please note that use of A heroes is not recommended in PVP, as they are too hard to build for survivabilty, and every buff they can provide (bar Cupid) can be obtained through a much stronger S or S+ hero.
+
+ Cupid - Heals all allies, decreases enemy healing and increases attack and healing effect by 40% for the heroes in spot 1+2. (If Cupid is in one of those, defers to next spot. That buff goes when one dies.
+
+  Valkyrie - Has a 60% chance to stun enemies for 1 round with her basic attack.
+
+ Order - Decreases enemy healing by 20% for 2 rounds.
+
+ Cheetah Girl - Stuns random enemy front row is for 2 turns, increases ally Armour, drains enemy energy.
+
+ Lady Icy - Reduces enemy speed, and freezes them. (CC)
+
+  Zorro - Reduces enemy heal by 80%.
+  Bullfight - Can stun enemy for 2 rounds.
+
+
+        Abyss Titan - Increases ally healing effect and Armour with Ulti.
+
+ Master Program - Increases ally speed. Can stun enemy.
+
+ Miss USA - Increases attack and Armor of ally SUPERMAN heroes.
+
+ Bread Hero - reduces damage received by front row allies.
+
+  Mask Man - Can stun for 2 rounds. AOE.
+
+Different CC (crowd control) + DOT (Damage over time) and what they mean
+
+Stun: Can't perform basic or ulti Twine: Can't perform basic or ulti Charm: Can't perform basic or ulti Disarm: Can't do basic
+Petrify: Can't perform basic or ulti Paralyze: Can't perform basic or ulti Freeze: Can't perform basic or ulti
+Disable:Can'tultiSilence:Can'tultiShackle:Can'tbasic or ulti, heal effectreduced.
+Absolute Freeze: Can't perform basic or ulti
+
+Lunar Eclipse: Can't perform basic or ulti, drops
+Damage Reduction
+
+-- DOT --
+
+Delusion Mark: Dealt by shadow. DMG applied at the end of each round.
+
+Scorch Mark: Dealt by Vulcano. DMG applied at the end of each round.
+
+Blood Ritual Mark: Dealt by Ophelia. DMG applied at the end of each round.
+
+Ghost Mark: Dealt by Marduk. DMG applied at the end of each round.
+Flammable: Dealt by enflame stigmata. DMG applied at the end of each round.
+
+Toxic Mark: Dealt by Orochi. DMG applied at the end of each round. Officially, he isn't counted. So withering stigmata and the Dread Evilsword will not work.
+
+Burn: Dealt by Eddie. DMG applied at the end of each round.
+
+Other DOT dealers include Ivy Bell. Withering stigmata increases DMG from DOT. Evil Dreadsword and Codex artifacts increase DMG from DOT. Radiance Tribute artifact makes that user immune to DOT. Kloris and Cui Pan can remove DOT.
+
+Acronym List & Definitions
+DPS: Damage per second. Your large damage dealers.
+
+CC: Crowd control. Heroes with abilities that prevent enemies from doing things.
+
+Tank: The main damage receiver. There to shield your DPS.
+
+Support: Heals or otherwise affects team in a way that isn't a
+constant buff.
+
+Debuffer: Removes buffs or lowers stats of enemy.
+
+Buffer: Increases ally stats in some way.
+
+PVP: Game modes that involve fighting other players.
+
+PVE: Game modes that don't involve fighting other players.
+
+Basic: Basic attack
+
+Ulti: Ultimate attack. Used when energy bar is full. (At 100)
+
+
+F.A.Q
+
+Why are some heroes recommended for 31 exclusive and not 30? The reason some heroes are recommended for an exclusive of 31 and not 30 is because when you get them to 31, the third stat in their exclusive increases. For example, Alcazar at +30 has additional Armor PEN of 15%. At +31 her additional Armor PEN (the third exclusive stat) increases to 20%.
+
+Why do some heroes have no recommended dark gems? What do I use?
+Some heroes don't have recommended dark gems because there is no stat the dark gems provide that they greatly benefit from. Usually in this case, go for speed.
+
+Why are some recommendations highlighted in grey?
+The highlights on artifacts and stigmata I personally use on main heroes. (NOTE: This will be how they sit in bag, not how
+
+they should be optimised for union war. If I did it that way, most DPS would have scythe highlighted.)
+
+
+
+
+
+Credits
+
+Special thanks to the below for contributing in some way to this guide.
+
+Dankeshun of Thug Life Alc3ste of Elite RainHawK of Prometheus ScubaSteve of DA7RK
+SugarBabyGoki of [FIN]The Empire
+Major Contributor - Thicc of DA7RK
+
+
+
+Have a suggestion, or disagree with something in the guide? Lets chat! Serenity8 on discord or 17888692 (EA) in game!
+
+

@@ -1,0 +1,569 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A guide to team building.
+By Serenity.
+
+
+
+
+Contents
+
+
+
+
+Intro Supports Tanks Buffers DPS
+Popular Pairs Community Lineups CC meanings Credits
+
+Every good team consists of a few things. 1-2 tanks (the ones taking the bulk of the damage. Such as Thinker, Paladin, Gilles) 1-2 DPS, 3 if varying DPS types (burst,
+sustain, AOE, targeted) (your damage dealers. Toko, Julia, Laura etc)
+2-4 Supports and buffers/Debuffers (like Cui pan who removes CC, Silas who disables the highest attack enemy and Cupid who buffs the heroes in spots 1,2)
+
+When team building, it's important to remember special boosts you can gain from different compositions. See attached diagrams.
+
+
+
+
+
+
+*Faction bonus in star tech adds onto the faction bonus chart. Generally not worth upgrading.
+
+Most DPS heroes you encounter earlier game target the front row, so it's best to put your tanks in the front. Some tanks need to be in position 1. Read each hero's skills. For heroes such as Cui pan, who rely on getting to half life for their special ability, try put them in positions 3 or 4. The DPS, bar those who have counter abilities (like GS) go in the back.
+
+Heroes such as Runner and Ronin are less effective in PVP than PVE because their buffs rely on surviving for extended periods. While good for longer battles (PVE), PVP battles are more often than not, over very fast. The positions you're using for time dependent heroes could better be used on heroes that have perma-buffs etc. (like Kong, whose speed ability is from the start.)
+
+Special note: PVE modes such as void, hub, wish boss, QI have reflectant damage. Meaning the faster you do big damage, the faster you die.
+
+Because the damage they deal you directly scales from the damage you do them. Keep that in mind when building your teams.
+
+Hero categories
+*denotes not typically effective in PVP. Can be if built well.
+
+Tanks
+- Light*
+- Rex*
+- Blaze Centaur* (also CC)
+- Thinker
+- Yi
+- Logan
+- Anubis (also debuff)
+- Moonlight Paladin
+- Gilles (also CC)
+- Magner (also debuff)
+- Knox (also DPS)
+- Camilla* (also CC)
+- Tchaikovsky*
+- Behemoth* (also CC)
+- Gonibal* (also CC)
+- Feng*
+
+DPS
+- Orochi*
+- Wukong
+- Darkness
+- Poseidon (also debuff)
+- Indira*
+- Julia
+- Laura
+- Kinley
+- Bonnie (also buffer)
+- Pierre
+
+- Toko*
+- Kloris
+- Knox
+- Godslayer
+- Alcazar
+- Satan*
+- Baron
+- Cara*
+- Epeius*
+- Sally* (also debuffer)
+- Eddie*
+- Van Helsing*
+- Galaxy*
+
+Buffers/Debuffers/CC/Supports
+- Zeus - CC (stun, guaranteed stun preround at +40)
+- Life* - Healer
+- Poseidon - removes all CC but absolute freeze.
+- Lucadia - increases team speed
+- Collapse - energy drain
+- Balance - Energy Drain, CC (Lunar Eclipse)
+- Faith* - removes shield
+- Incinerus* - Healer
+- Deer Girl* - Buffer
+- Marilina* - Healer
+- Elodie - CC (freeze, absolute freeze)
+- Alfa* - CC (stun)
+- Ronin* - Buffer
+- Magner - Buffer, CC clear (minus absolute freeze)
+- Irena - Buffer, CC clear (minus absolute freeze)
+- Jane* Buffer
+- Lucas - Healer
+- Anna - CC (charm, preround if +30)
+- Aphra* - Healer
+
+- Surbi* - Buffer
+- Lucy - Buffer
+- Silas* - CC (disable)
+- Kong - Buffer, Debuffer
+- Cui Pan - CC clear (minus Lunar Eclipse, Absolute Freeze)
+- Saint* - Healer, CC (Silence)
+- Eve - CC (twine)
+- Runner* - buffer
+- Einstein - Healer
+- Medusa* - CC (petrify)
+- Time
+- Nydia
+- Cupid - Buffer
+
+Building your team around DPS
+
+Generally when building a team, you have two things in mind. The need to construct a team to counter the one your opponent is using, and simultaneously constructing a team that compliments your DPS. This is where team building becomes more complex, and where for most players, from where the issues with the success of their team stem.
+
+We will break down team construction into two parts.
+First, countering your opponent, or, in modes where you don't know what your opponent will use, anticipating the best way to survive.
+
+ Magner - Magner is a newer Tank/Debuffer. His unique ability to negate the effect of opponent speed declining skills makes him a powerful addition to any team. Add to that, that he can remove CC, or prevent CC (except absolute freeze), and that he buffs your entire team's BA and ATK. In addition to these, he himself deals true damage scaled from his HP, and can resist one lethal (would otherwise kill him) blow.
+Takeaway: stops your team being slowed, buffs BA, removes CC. Good against teams using Bow, Wings, Anubis (note: will not stop Anubis preventing revive on Orochi/Einstein)
+
+
+
+
+
+         Irena - Another newer hero, this one a support/debuffer. Irena removes CC from all allies with her ulti, and one ally with her coordinate attack (an action she takes whenever another ally takes action.) In addition to this, she heals allies based on her HP, and increases ally crit DMG. She can remove Balance' Lunar eclipse, not absolute freeze (Elodie ulti), however.
+Takeaway: Dispels CC from allies, heals team, builds team crit DMG
+
+ Cui Pan - Heals allies to his ATK, clears their CC (minus Lunar Eclipse and Absolute Freeze) and makes them immune to CC (minus aforementioned) for 1 round, when he reaches 50% or less remaining health. Cui Pan also raises ally Armor and lowers enemy armor, and raises ally attack, while clearing them of DOT (damage over time (Burn, Poison)) with his ulti
+Takeaway: clears CC, DOT from allies (minus Lunar Eclipse and Absolute Freeze)
+
+ Poseidon - Poseidon removes buffs from enemies (2, random) and CC from allies in her row with her ulti. (including Lunar Eclipse, not Absolute Freeze)
+
+
+
+
+
+          Life - Heals allies to her HP, lowers enemy attack. Can Revive two dead allies with her +40.
+
+ Lucas - Heals allies to their HP, can prevent a fatal blow (would otherwise kille them) once every two rounds for each ally.
+
+ Einstein - Can resurrect 2 allies (3 if 9/9 relics) at the end of the turn which they died. (countered by anubis and Cara +40, which prevent this.)
+
+ Faith - Each enemy she hits three times loses their shield.
+
+  Zeus - When energy is full, launches AOE (hits everyone attack) that has the chance to stun. If energy is full at the beginning of the battle (Genesis or Orb), will launch this attack prebattle. At +40, has a guaranteed stun of one random enemy before any other hero preround action takes place.
+
+
+
+
+
+
+
+          Elodie - When full of energy, has a guaranteed infliction of Absolute Freeze on the enemy with the highest attack. Can only be dispelled by removing her frost shield, or her casting the skill again. Coordinates with ally active skills to give a chance of Freeze (not absolute) to random enemies.
+
+ Eve - Has the chance to plant a seed on enemies with her basic. For the following 3 rounds, each time the enemy attacks, they have a chance to get twined by the seed. At the beginning of each turn, and also upon her death, also has the chance to twine all enemies.
+
+ Anna - Reduces enemy healing with her basic, with the chance to charm them. At +30, Releases this attack preround, with one enemy guaranteed to be charmed.
+
+ Collapse - With his ulti, causes enemy to not gain their next 50 energy after using their own ulti. Drains all enemies to lose 50
+
+energy at the start of the battle (when 9/9 relics).
+
+ Balance - Has the chance to inflict Lunar Eclipse on all enemies with her ulti. After her ulti, will drain the next acting enemy'e energy by 100. (takes 100 to ulti). At 9/9 relics, the enemy affected cannot regain energy for the remainder of that round. At +30, will gain an additional 50 energy each time an active (not passive) skill is used. At +40, is immune to Lunar Eclipse from enemy Balance.
+
+Countering the opponent is only half of the battle. Component two of team building is the defeating the opponent. That comes in three facets. Tanks, buffers and DPS.
+
+Tanks increase your team survivability in order for your DPS to take out the enemy team, without being taken out themselves.
+
+ Thinker - Provides a shield to allies with a % of his own HP. He also increases ally armor. He also shares the damage dealt to the ally with the highest attack. Additionally, the more damage he takes, the less he receives. The lower his HP becomes, the more damage he mitigates.
+
+ Yi - All of Yi's attacks are HP based, but moreover, He reduces enemy damage reduction and armor. As allies health drops, Yi gains marks. When he hits 9 marks, he gives the whole team a shield to a % of his HP. If Yi is affected by CC when this occurs, he dispells it, and gains effect res.
+
+ Logan - "eats" frontline enemy with the highest HP, causing damage at a % of his
+HP, and healing himself heal himself 75% of his lost HP. Decreases enemy armor, and raises the
+
+damage reduction of the ally in the same column, while also applying them a shield of his HP. Also removes any CC he is under when he "transforms."
+
+  Anubis - Reduces enemy Attack, Armor and speed. At the end of each turn, deals 5% of his HP in damage to enemies below 20% of their HP. If he kills them, heals himself 5%.
+Prevents heroes from reviving (Redemption stigmata, Life +40, Einstein skill, Orochi)
+
+ Julianne - Julianne increases damage received to the highest attack enemy. When they die, she heals herself to a % of her HP. Julianne increases all allies' Damage Reduction and attack.
+
+ Gilles - Shares damage received by the two allies with the highest attack in the back row. With his ulti, has the chance to stun up to 4 enemies, and grants a shield up to 20% of his HP to himself and the back row allies.
+Basics also have the chance to stun, and when Gilles is in front row, grants damage reduction to back row.
+
+
+
+
+
+         Camilla - Deals damage based on her HP, and heals for whatever she deals. Marks front row enemy with lowest HP, decreasing their armor, and spiking their attack. This means when Time/Nydia activate, they hit them instead of the intended hero/es.
+
+Just as important for tanks are buffers, used to, you guessed it, buff your DPS to maximise their output. Some good for PVP buffers include:
+
+
+
+          Time - with his ultimate, triggers the ally with the highest attack to cast their ultimate again. Heals himself and the ally with the lowest HP % each time the enemy casts an active skill. At 9/9 red relics, raises Broken Armor of ally with the highest attack.
+Note: Time's ultimate can not activate the hero with the highest attack if Nydia has already activated them that round. Same works for Nydia.
+
+
+
+          Nydia - Grants allies a shield to a % of her HP, Grants damage immune and crit res to the two allies with the highest attack upon the death of the first enemy. Each round with her ulti, clears the two allies of the highest ATK of cc (minus lunar eclipse and absolute freeze), and causes them to use their basic attack again (or ultimate if they're at 100 energy). Each time an enemy dies, Nydia heals all allies for up to 20% of their lost HP.
+
+
+
+          Cupid - Increases the attack and healing of the heroes in positions 1 and 2. If
+
+cupid is in one of those positions, will divert to position 3. Effect lasts until one of them (not cupid) dies.
+
+  Kong - Increases ally damage reduction. Reduces enemy armor. Increases ally attack and speed. His buff is superseded by Lucadia's.
+
+
+
+
+
+
+Lucadia - Increases ally speed and
+attack.
+
+
+
+
+
+
+          Deer Girl (Loufontiel) - Heals allies up to 9% of their lost HP. Increases ally shield. Also increases ally damage reduction, crit res and damage. At +30, gives all allies Broken Armor.
+
+ Lucy - Increases back row ally attack. Also increases ally with the highest attack's crit. At +30, that expands to all allies.
+
+Of course, maximising your DPS output is important, but so is selecting the right DPS for your team. Each does something different, synergises with different heroes, and approaches their attacks differently.
+
+  Wukong (MK) - Hits enemy with lowest HP in the front row with his ulti. When MK's HP drops below 50%, releases an AOE attack, while simultaneously gaining 100% crit res, and a shield of 40% HP. Has a coordinate attack, where he attacks when allies do. Should he do that 3 times in one round, will cast an additional ultimate attack without using energy. Best in teams with heroes that use active skills.
+Build focus: Crit, Crit DMG, Broken Armor  Darkness - Imprisons enemy in same number position as her with her ulti. Deals 400% attack to that enemy. When they die, she gains 100 energy. If shackle (imprison) fails, gains speed and effect hit. At +40, becomes immune to all CC except imprison and absolute freeze for one round. Best paired with a hero orb feeding her (usually Zeus, Elodie, GS, Lucas, Kinley).
+Build Focus: Effect Hit, Broken Armor, Crit, Crit DMG
+
+
+
+
+
+          Poseidon - Ultimate is an AOE attack, and also removes buffs from two random enemies. Her basic hits front line enemies. Also removes CC from allies (minus Absolute freeze)
+Build Focus: Broken Armor, Crit, Crit DMG
+
+ Julia - Attacks enemy with lowest HP % with her ultimate, and gains 5 stacks of leaf strike. If an ally gets an enemy to below 60% HP, she will use her leaf strike stacks (1 stack = 1 hit). She will continue until she either kills the target or runs out of stacks. At the end of each turn, any stacks she hasn't yet used will be launched at the enemy with the lowest HP%. Good to pair with heroes using sustain damage (Kloris) or trigger attacks (Baron, Pierre)
+Build Focus: Crit, Crit DMG, Broken Armor
+
+ Laura - Releases a powerful attack at the start of round one, then gains an invincible shield for the rest of the round.
+Best paired with trigger DPS (Pierre, Baron).
+Build Focus: Broken Armor, Crit, Crit DMG
+
+
+
+
+
+
+Kinley - Attacks heroes in her column.
+When the enemy in front row, for every attack she launches at the hero in back row, will launch an additional strike at all enemies in the back row. Gains damage reduction for each point of broken armor she has. Increases damage received to front row enemies by all allies.
+Kinley has a special ability, like GS, to double charge orb. Best paired with an AOE hero, or one she can orb charge, if you choose to go that route.
+Build Focus: Broken Armor, Crit, Crit DMG
+
+ Bonnie - Hits front row with her ultimate. If the target's HP is above 50%, adds 50% more damage. Her basic attacks increase her Crit res, speed and damage of her ultimate.
+Increases ally Broken Armor and Damage Reduction. As she is also a buffer, better used along with another DPS, particularly an AOE or one that hits back row.
+Build Focus (DPS): Crit, Crit DMG, Broken Armor
+Build Focus (Buffer): Damage Immune, HP
+
+ Kloris - Deals true damage (not affected by Broken Armor, crit, crit DMG as it ignores Damage Immune). Uses AOE attacks which cannot be prevented by CC. Deals more damage
+
+based on damage she receives. Removes sustained damage (burn, poison) from herself and to allies with her ultimate. Once per battle, can survive a fatal hit, which then triggers leaf strike. Best paired with a hero that gives direct damage (like Julia (leaf strike), Orochi)
+Build Focus: HP, ATK, Damage Immune
+
+ Knox - Hits enemy with the lowest HP with his ultimate, 5 times. If there are no enemies in the front row, will launch each hit at all back row enemies. Is invincible for the first round. His basic deals damage to the hero with the lowest HP in the front row. Once any hero in the front row is dead, will instead deal damage to any enemy with the lowest HP. The first time a front row enemy dies, he will release an AOE attack, healing himself completely.
+Build Focus: Crit, Crit DMG, Broken Armor, Skill DMG
+
+ Focalor (GS) - Attacks his column. Cuts his HP in half to gain crit, crit DMG and broken armor. Each kill by GS gives him the ability to resist death once.
+Build Focus: Crit, Crit DMG, Broken Armor
+
+
+
+
+
+
+          Alcazar - Adds damage stacks of evil possession as a coordinate attack to 2 random enemies. Her ultimate launches an AOE attack and more stacks. When an enemy reaches 5 stacks of evil possession, they all explode dealing damage. Alcazar heals each time an enemy takes damage from evil possession. Her Broken Armor and damage reduction increase for every enemy hero affected by CC. Best to place in a team containing a trigger hero (like Pierre), and CC.
+Build Focus: Crit, Crit DMG, Broken Armor
+
+ Baron - Reduces enemy healing with his ultimate. His basic shoots front row enemies.
+When an enemy dies (to any hero) Baron will launch 4 attacks at the enemy. Dealing more if they have less than 50% HP. Ignores shields and invincibility. Takes less damage and gains more speed when paired with a raider (like Julia) Build Focus: Crit, Crit DMG, Broken Armor
+
+ Orochi - Deals sustain damage (poison) to all heroes with his ultimate, and applies stacks of toxic mark. Deals exclusively to back row with his basic. If any enemy affected by the toxic mark dies, all stacks on all heroes will explode, dealing additional damage. Toxic
+
+mark deals damage to the target every round. If Orochi dies, the enemy is not using Anubis, nor a +40 Cara, and you have at least one other alive hero, the following round, Orochi will resurrect, and cast his ultimate immediately (once per battle). He is best paired with heroes that are tanky. (Lucas, Kloris etc.) Build Focus: Skill DMG, Broken Armor, Crit, Crit DMG
+
+  Pierre - Launches an AOE attack with his ulti, with extra damage dealt to the enemy with the lowest HP. When any enemy dies because of either himself or allies, Pierre triggers waiting game. Waiting game has the chance to drain target energy, as well as apply the CC "silence." Targets the enemy with the lowest HP. Once they reach 30% health, his damage to that hero increases. Best paired with targeted or burst damage heroes (Laura, Julia etc).
+Build Focus (support DPS): Broken Armor
+Build Focus (solo DPS): Crit, Crit DMG, Skill DMG, Broken Armor
+
+Some pairs you may often see in PvP include:
+
+Laura and Pierre - A well built Laura can take out an opponent right at the beginning of a battle, immediately triggering Pierre's waiting game.
+
+Orochi and Kloris - Kloris has the ability to sit in an invincibility state for a round, allowing Orochi time to utilise his revive skill.
+
+Julia and Baron/Pierre - Julia has powerful target attacks that can quickly trigger Pierre/Baron's skills.
+
+GS and Time - GS while wearing orb, above a Time with Genesis can cause GS to ult up to 3 times in one round.
+
+Darkness and Pierre/Baron - Darkness' powerful imprison can cause the target to die, majority of the time. This will trigger Pierre/Baron
+
+Zeus/Elodie and Alcazar - Zeus and Elodie cast CC preround/start of round. This increases damage Alcazar can deal immediately.
+
+Knox and Pierre/Baron - Knox deals powerful targeted and AOE hits, allowing an enemy to die, and quickly trigger Pierre/Baron.
+
+Community collaboration - Lineup ideas!
+
+This section was created by lineups submitted by various players in the community, for various different game modes.
+
+
+
+
+
+Mode: Galaxy Void
+Contributor: Auen1, LegacyOfFire
+Build notes: Thinker (Holy Prayer), Houston (Light of Faith), Ronin (Radiance Tribute), Jane (Templar Glory), Time (Genesis), Kloris (Angel Wings)
+Why they like it: I like the relative ease of the build to acquire. It's not complicated and only requires time.
+
+
+
+
+Mode: Quantum Invasion
+Contributor: JMTurbo, CyberRunners
+Notes: Yi protects, Time stays alive longer with the Hammer (put phantom+evolution stigs on him), Kinley charges Orochi's ult more, while Houston lowers enemy defense, while boosting the back line's attack, & Ronin also lowers enemy defense & further weakens it with the Wand. Your force / force res % must be greater than 40% & ensure that Ronin's attack power is still less than Orochi's after Ronin gets his 20% boost on his current attack power as you want Time to choose Orochi to act again, so he's using his ult twice per round.
+
+
+
+
+Mode: Stigmata Zone: Demonic Life 28
+Contributor: JMTurbo, CyberRunners
+Notes: I used this lineup to pass every level in Time Travel vs. Demonic-Life woman. Gilles- Wand will increase dmg to enemies & reduce their shielding, plus protect Orochi-Scythe & God Slayer-Axe, Lucas-Orb increases frequency of Orochi's ult, & Yi-Holy Prayer or Armor protects. The axe will further increase God Slayer's attack power & provide a shield based on his HP. Kloris-Primal Power needs to have
+1.25M+ attack power & the artifact will allow her to increase her dmg each round. Also, use the Assassin ship at level 150, since it increases dmg to the enemy by 10%, while also reducing shield by 10% & also reduces enemy healing effect by 10%, which is key when fighting this enemy as she constantly heals herself.
+
+
+
+
+Mode: Reincarnation Space - Maya week
+Contributor: Gokhan- TopSaints
+Notes: Maya reincarnation team 6 kinley orb feed lucas for fatal protection gs sychte for dmg and monkey support dmg with spear but since maya is universe monkey has bonus dmg to him.
+And karen for boosting the dmg.
+
+
+
+
+Mode: Dark Faction Wanted
+Contributor: Gokhan, TopSaints
+Notes: Line up for dark faction all the way
+400. Anna and gonibal handles cc , cara if she ever aim light for healing lucas orb feed gs with scythe and baron as a support dmg with hammer.
+
+
+Mode: General PVP
+Contributor: ScubaSteve, Prometheus
+Notes: High dmg on Laura with Baron secondary for clean up. The team gets a lot of BA bonus from bonnie and magner combo that Laura becomes very effective. The down side is your team cant gain speed during battle as magner skill prevents it, so you have to make sure your Laura is fast prebattle.
+
+
+
+
+Mode: Quantum Invasion
+Contributor: BigBrainMercado, Dark Plague Notes: First is more for advanced players with like 60% force. The logan one needs logan to have highest speed and GS to be second fastest. Most players use Toko instead of Poseidon.
+
+
+
+
+Mode: General PVP
+Notes: Zeus can be countered by balance, however with Elodie holding orb, Alcazar can still be orb charged. Yi adds a shield to the team, allowing absolute freeze to last longer. Due to the excessive CC hero use, Alcazar can maximise her buffs early.
+
+
+Mode: General PVP
+Contributor: Brokk, God's Legacy
+
+
+
+
+Mode: General PVP
+Contributor: Khayla, LegacyOfLand
+
+
+Mode: General PVP
+Contributor: 420, SpacePirates
+
+
+
+
+Mode: General PVP
+Contributor: Yhhon, Ledgends
+Notes: Julianne (wing) - Yi (shield) - Gilles (divine) - Kong (must have 18/18) (templar) - Laura (boot/scythe/ES) - Julia (ring)
+This team can be upgrade easily when you got a better hero such as lucadia, Baron, balance, kloris etc
+
+
+
+
+Mode: General PVP
+Contributor: d1sp0s4bl3, Cerberus
+
+
+Mode: Galaxy Void
+Contributor: Krasilshchikov, God's Legacy
+Note: enflame on Orochi, slowest.
+
+
+
+
+Mode: General PVP
+Contributor: Dazzle, 0fucks
+
+
+Mode: General PVP
+Contributor: Sixela, LegacyOfLand
+Notes: Laura in position one prevents a Toko team from wiping you out round one.
+
+
+
+
+Mode: General PVP
+Contributor: IndominusFlex, LegacyOfFire
+
+
+Mode: General PVP
+Contributor: KingZy, Divinity
+
+
+
+
+Mode: General PVP
+Contributor: Danze?, God's Legacy
+
+
+Mode: General PVP
+Contributor: ScubaSteve, Prometheus Notes: High defense with cc dispel. Great control from balance and energy drain
+preventing the use of darkness effectively against the team. Kloris dmg at end of round is huge and is true dmg so it is not affected by your enemy DI. Julia for cleanup after kloris atks.
+
+
+
+
+Mode: General PVP
+Contributor: d1sp0s4bl3, Cerberus
+
+
+Mode: General PVP
+Contributor: Adttonello, LegacyOfFire and Minority
+Notes: PvP semi-whale anti-Balance Gilles, DP or shield, phantom + evo, 3412
+Lucas, hammer, phantom or mirage + evo, 3412
+
+Kloris, wings, vital or phantom + evo/judgment, 1321
+Irena, wings, phantom + evo, lv 30 exclusive. Baron, scythe, berserk or broken blade + sin, 1322
+Julia, ring, berserk + zealot, 1321, 5* gems - with shieldbreaker
+
+
+Mode: General PVP
+Contributor: Krasilshchikov, God's Legacy
+
+
+
+Mode: General PVP
+Contributor: Yhhon, Ledgends
+Notes: Anubis (wing), GS (hammer), Thinker (Beacon), Spirit Deer (radiance), Lucas (orb), Anna (bell) - will win against Julia team
+This team can be upgrade with Balance, Bonnie, Time, Irena, Alfa (9 relics with succubus)
+
+
+Mode: General PVP
+Contributor: Yaoi - LegacyOfSea
+
+
+
+
+Mode: General PVP
+Contributor: Triggzzyyy - TheGoodPlace
+Notes: Allows me to take hits from Laura with Yi and Shield, Aegis gives backline protection to Kloris and Julia, Lucadia allows me to be faster than other Julia's and Balance with bell raises effective hit to CC enemies
+
+
+Mode: General PVP
+Contributor: ScubaSteve, Prometheus
+Notes: With the right speed setup unless facing balance, GS will ult twice, first by time which will ult GS and that will give zeus full energy as he gains energy when a teammate ults. If zeus is set faster than GS after GS gains speed from his exclusive then zeus will act giving GS full energy for his next strike. Thinker increases the entire team defence by increasing
+
+their armor. Life will help heal GS if hit by GS after he does blood sacrifice.
+
+Overall team has good cc, healing, defence buff, speed and atk buffs from Lucadia.
+
+
+Mode: Hub Trial
+Contributor: Adttonello, LegacyOfFire and Minority
+Notes: Hub Trial double-winged - lv 6 Union Houston wings, 1222, samurai and judgment.
+
+Lucy, wings, 1221, redemption and judgment.
+Kinley, orb, 1222, vital or thorn + sin Einstein, crown or wand, redemption or phantom
++ evo - works best with 9 relics. Time, OT/Genesis, phantom + evo.
+Orochi, scythe, 1221, 2/2/2 - GS can be used, scythe and striker.
+
+
+
+
+Mode: Union War, DB
+Contributor: u.e.k.i, God's Legacy
+Notes: make eve as suicidal hero just focus on her effect hit. enemy is expected to kill her first and trigger her exclusive skill. and by that, julia as dps can deal dmg and if she kill an enemy, she will i crease kloris' attack.
+
+counter: anti cc / cc remover heroes
+
+
+
+
+Mode: General PVP
+Contributor: Sneaky Sloth, LegacyOfLand
+
+
+Mode: General PVP
+Contributor: SlaveCommander, God's Legacy Notes: I position Darkness and Zeus opposite wherever they have Julia.
+It's good to kill up to 150 million power enemies. Can substitute Ivy for Yi in certain circumstances too
+
+Different CC (crowd control) and what they mean Stun: Can't perform basic or ulti
+Twine: Can't perform basic or ulti Charm: Can't perform basic or ulti Disarm: Can't do basic
+Petrify: Can't perform basic or ulti
+
+Freeze: Can't perform basic or ulti
+
+
+Disable:Can'tultiSilence:Can'tultiShackle:
+reduced.Can'tbasic or ulti, heal effect
+Absolute Freeze: Can't perform basic or ulti
+
+Lunar Eclipse: Can't perform basic or ulti,
+drops Damage Reduction
+
+Credits
+
+They were credited within the collaboration section, however, here they are again. Thank you to each of the following for contributing in some way to this guide.
+
+
+
+BigBrainMercado of DarkPlague Gokhan of TopSaints
+   420 of SpacePirates ScubaSteve of Prometheus
+Yhhon of Ledgends Dazzle of 0fucks D1sp0s4bl3 of Cerberus
+Krasilshchikov of God's Legacy Adttonello of LegacyOfFire and Minority IndominusFlex of LegacyOfFire Triggzzyyy of TheGoodPlace SlaveCommander of God's Legacy SneakySloth of LegacyOfLand
+u.e.k.i of God's Legacy Yaoi of LegacyOfSea
+Danze? of God's Legacy KingZy of Divinity Sixela of LegacyOfLand Khayla of LegacyOfLand Brokk of God's Legacy JMTurbo of CyberRunners Auen1 of LegacyOfFire
+
+
